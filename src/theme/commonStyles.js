@@ -34,6 +34,7 @@ export const justifyCenter = { display: "flex", justifyContent: "center" };
 export const dFlex = {
   display: "flex",
   flexDirection: "row",
+  alignItems: "center",
 };
 
 export const fixedBottom = {
