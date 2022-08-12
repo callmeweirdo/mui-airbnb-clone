@@ -17,7 +17,7 @@ const Header = () => {
     <Box
       sx={{
         ...dFlex,
-        minHeight: 90,
+        minHeight: 70,
         borderBottom: "1px solid #0dd ",
       }}
     >

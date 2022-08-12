@@ -1,0 +1,12 @@
+.carouselCard .MuiMobileStepper-root {
+  opacity: 0;
+  transform: all ease 1000ms;
+}
+
+.carouselCard:hover .MuiMobileStepper-root {
+  opacity: 1;
+}
+
+.carouselCard:hover .MuiMobileStepper-doActive {
+  background-color: #fff;
+}
